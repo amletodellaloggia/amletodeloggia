@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
- 👾 Web Dev, aspiring Game Dev <br>~🔭 I’m currently working Saving the World, one byte at a time<br>👯 I’m looking to collaborate on exciting, fresh projects<br>🤝 I’m looking for help with learning more about Laravel<br>🌱 I’m currently learning Python<br>💬 Ask me about The Upside Down<br>⚡ Fun fact: I can overcomplicate drinking water
+ 👾 Web Dev, aspiring Game Dev <br>🔭 I’m currently working Saving the World, one byte at a time<br>👯 I’m looking to collaborate on exciting, fresh projects<br>🤝 I’m looking for help with learning more about Laravel<br>🌱 I’m currently learning Python<br>💬 Ask me about The Upside Down<br>⚡ Fun fact: I can overcomplicate drinking water
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/amletodellaloggia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/amletodellaloggia) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/exuviation) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/enfeeblement) 
 
